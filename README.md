@@ -1,4 +1,5 @@
 #English
+
 This project already has an auth token sanctum register, login and logout
 
 HOW TO WORK
@@ -11,7 +12,8 @@ HOW TO WORK
 ============
 
 #Indonesia
-This project already has an auth token sanctum register, login and logout
+
+Proyek ini sudah memiliki auth token sanctum register, login dan logout
 
 CARA MENGGUNAKAN
 1. cp .env.example .env
