@@ -7,7 +7,7 @@ HOW TO WORK
 3. composer update
 4. php artisan serve
 5. Check on Postman
-6. 
+
 ============
 
 #INDONESIA
