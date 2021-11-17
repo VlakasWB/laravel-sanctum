@@ -18,6 +18,7 @@ use App\Http\Controllers\API\UserController;
 
 Route::middleware('auth:sanctum')->group(function () {
     Route::post('logout', [UserController::class, 'logout']);
+    Route::get('get_data_user', [UserController::class, 'fetch']);
 });
 
 Route::post('login', [UserController::class, 'login']);
