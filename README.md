@@ -34,3 +34,8 @@ CARA MENGGUNAKAN
 - LOGOUT
 
 ![image](https://user-images.githubusercontent.com/77152618/141956070-72d539ae-f6d0-48d4-8d18-deb09e04085d.png)
+
+- GET DATA USER
+
+![image](https://user-images.githubusercontent.com/77152618/142197386-72f8a263-d98b-4d33-adf0-94a4f0a6bc74.png)
+
